@@ -17,6 +17,8 @@
 | Certified Kubernetes Security Specialist (CKS) | If you work with Kubernetes daily on production, deal with a lot of security aspects and you're a Kubernetes fanatic, then this is for you! | Hard | [CKS course by Kim Wüstkamp](https://www.udemy.com/course/certified-kubernetes-security-specialist/) |
 
 
+
+
 Adding to the list? Follow the template below when making a pull-request.
 
 | Certificate name | Why you recommend it? | Difficulty level | [Course name](Course link here) |
