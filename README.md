@@ -2,7 +2,7 @@
 
 # Recommended-DevOps-certifications
 
-## Note: These are just my personal recommendations of certifications that are currently in demand
+## Note: These are just my personal recommendations of certifications that are currently in demand. They are not in order!
 
 ### Feel free to add on to this list. 
 
@@ -21,6 +21,7 @@
 | Google Cloud Associate Cloud Engineer  | Looking to diversify your cloud knowledge? Or your employer uses GCP daily? Then this is for you? | Medium | [Google Cloud Associate Cloud Engineer by Antoni Tzavelas](https://training.antonit.com/p/google-cloud-associate-cloud-engineer) |
 | AWS Developer Associate | Are you a developer who wants a touch of cloud? Then this for you | Medium | [AWS Developer Associate by Stéphane Maarek](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/) |
 | Certified Kubernetes Security Specialist (CKS) | If you work with Kubernetes daily on production, deal with a lot of security aspects and you're a Kubernetes fanatic, then this is for you! | Hard | [CKS course by Kim Wüstkamp](https://www.udemy.com/course/certified-kubernetes-security-specialist/) |
+| AWS Solutions Architect Professional | Got a couple of years under your belt and you're ready to tackle the beast? Then give this one a shot! | Hard | [AWS Certified Solutions Architect Professional by Stéphane Maarek](https://www.udemy.com/course/aws-solutions-architect-professional/) |
 
 
 ####  Adding to the list? Follow the template below when making a pull-request.
