@@ -1,3 +1,5 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 # Recommended-DevOps-certifications
 
 ## Note: These are just my personal recommendations of certifications that are currently in demand
