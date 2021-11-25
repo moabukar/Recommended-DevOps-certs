@@ -7,7 +7,6 @@
 - Why they are recommended, difficulty level (can be subjective) and learning resources and links
 
 
-
 | Certificate  | Why? | Difficulty | Learning resources & links |
 | ------------- | ------------- | ------------- | ------------- |
 | AWS Certified Cloud Practitioner | New to the Cloud? Definitely recommend this one!! (AWS are currently the largest cloud-providers | Easy | [AWS CCP course by Andrew Brown - FreeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE) |
@@ -22,8 +21,6 @@
 | Certified Kubernetes Security Specialist (CKS) | If you work with Kubernetes daily on production, deal with a lot of security aspects and you're a Kubernetes fanatic, then this is for you! | Hard | [CKS course by Kim Wüstkamp](https://www.udemy.com/course/certified-kubernetes-security-specialist/) |
 
 
-
-
-Adding to the list? Follow the template below when making a pull-request.
+####  Adding to the list? Follow the template below when making a pull-request.
 
 | Certificate name | Why you recommend it? | Difficulty level | [Course name](Course link here) |
