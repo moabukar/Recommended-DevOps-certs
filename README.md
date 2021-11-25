@@ -8,7 +8,7 @@
 
 
 
-| Recommended DevOps/Cloud Certs  | Why? | Difficulty | Learning resources & links |
+| Certificate  | Why? | Difficulty | Learning resources & links |
 | ------------- | ------------- | ------------- | ------------- |
 | AWS Certified Cloud Practitioner | New to the Cloud? Definitely recommend this one!! (AWS are currently the largest cloud-providers | Easy | [AWS CCP course by Andrew Brown - FreeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE) |
 | Azure Fundamentals (AZ900) | Starting with Cloud and already work with on-prem tools like Azure AD, then this is for you!  | Medium/Hard | [Azure Fundamentals (AZ900) course by Andrew Brown - FreeCodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA) |
