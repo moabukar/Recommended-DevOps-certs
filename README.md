@@ -32,4 +32,4 @@
 ##### Contributors:
 - [Mohamed](https://github.com/moabukar)
 - [Adam](https://github.com/adam-os)
-- [Abdurahman](https://github.com/moabukar)
+- [Abdurahman](https://github.com/a-abukar)
