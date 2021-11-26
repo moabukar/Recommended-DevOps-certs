@@ -2,7 +2,7 @@
 
 # Recommended-DevOps-certifications
 
-## Note: These are just my personal recommendations of certifications that are currently in demand. They are not in order! Also note that these certifications alone do not guarantee your success in getting a role - they merely open doors for you and allow you to validate current/existing knowledge
+## Note: These are just our personal recommendations of certifications that are currently in demand. They are not in order! Also note that these certifications alone do not guarantee your success in getting a role - they merely open doors for you and allow you to validate current/existing knowledge
 
 ### Feel free to add on to this list. 
 
